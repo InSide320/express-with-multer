@@ -2,7 +2,7 @@
   "name": "express-with-multer",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cross-env NODE_ENV=dev NODE_CONFIG_DIR=./connect/config nodemon app.js",
